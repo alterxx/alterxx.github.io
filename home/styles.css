@@ -8,10 +8,14 @@
     src: url(silkscreen-bold.ttf);
 } 
 
+body {
+    font-family: SilkScreen-Bold;
+}
+
 .bg {
     background-color: black;
 }
 
-.test {
+.text-test {
     color: white;
 }
