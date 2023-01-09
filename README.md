@@ -1,3 +1,3 @@
 # weird website you've ever seen
 
-### YML config file information was found https://youtube.com[here]
+### YML config file information was found [https://youtube.com[here]](https://youtube.com)
