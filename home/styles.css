@@ -8,14 +8,10 @@
     src: url(silkscreen-bold.ttf);
 } 
 
-/* Style the body */
-body {
-    font-family: 'SilkScreen-Bold';
-    margin: 3;
-    padding: 10px;
+.bg {
+    background-color: black;
 }
 
-html {
-    padding: 30px;
-    margin:10px
+.test {
+    color: white;
 }
