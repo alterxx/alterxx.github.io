@@ -8,7 +8,7 @@
     src: url(silkscreen-bold.ttf);
 } 
 
-body {
+html {
     background-color: black;
     padding: 5px;
     margin: 2px;
