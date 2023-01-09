@@ -18,7 +18,7 @@ skills_title: Skills
 
 show_timeline_card: true
 timeline_title: Education & Experience
-cv_download_link: https://resume.io/r/L57OtJ63W
+#cv_download_link: https://resume.io/r/L57OtJ63W
 
 show_projects_card: true
 show_projects: false
@@ -30,7 +30,7 @@ show_contact_card: true
 contact_title: Contacts
 contact_description: Feel free to contact me wherever is comfortable for you
 
-repository: insolitum/insolitum.github.io
+repository: alterxx/alterxx.github.io
 github_pages:
   - sorting_algos
   - character_encoder
@@ -42,7 +42,7 @@ projects:
     archived: true
     forks: true
     projects:
-      - insolitum
+      - alterxx
 
 plugins:
   - "jekyll-github-metadata"
