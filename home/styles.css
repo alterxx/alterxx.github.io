@@ -17,6 +17,7 @@ body {
     background-color: black;
 }
 
-.text test {
+.text-test {
+    font-family: SilkScreen-Bold;
     color: white;
 }
