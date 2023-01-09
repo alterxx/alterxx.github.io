@@ -1,0 +1,21 @@
+@font-face {
+    font-family: SilkScreen;
+    src: url(silkscreen-regular.ttf);
+}
+
+@font-face {
+    font-family: SilkScreen-Bold;
+    src: url(silkscreen-bold.ttf);
+} 
+
+/* Style the body */
+body {
+    font-family: 'SilkScreen-Bold';
+    margin: 3;
+    padding: 10px;
+}
+
+html {
+    padding: 30px;
+    margin:10px
+}
