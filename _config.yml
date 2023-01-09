@@ -2,6 +2,8 @@ title: ALTERXX
 description: ALTERXX's Personal Website (Maybe)
 baseurl: ""
 
+theme: minima
+
 username: alterxx
 typing_text: what
 
