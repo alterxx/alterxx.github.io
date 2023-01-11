@@ -9,9 +9,9 @@
 } 
 
 html {
-    background-color: black;
+    background-color: rgb(17, 17, 17);
     padding: 5px;
-    margin: 2px;
+    margin: 10px;
 }
 
 button {
@@ -23,12 +23,12 @@ button {
     color: black
 }
 button:hover {
-    background-color: black;
+    background-color: rgb(17, 17, 17);
     color:rgb(149, 135, 230);
 }
 
-button::selection {
-    color: white;
+::selection {
+    color: rgb(99, 90, 149);
 }
 
 button:active {
@@ -38,4 +38,8 @@ button:active {
 .text-test {
     font-family: SilkScreen-Bold;
     color: white;
+}
+
+.buttons-test {
+
 }
