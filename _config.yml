@@ -2,7 +2,7 @@ title: ALTERXX
 description: ALTERXX's Personal Website (Maybe)
 baseurl: ""
 
-theme: hacker
+theme: minima
 
 username: alterxx
 typing_text: what
@@ -23,9 +23,9 @@ timeline_title: Education & Experience
 #cv_download_link: https://resume.io/r/L57OtJ63W
 
 show_projects_card: true
-show_projects: false
+show_projects: true
 projects_title: Work Projects
-show_os_projects: true
+show_os_projects: false
 os_projects_title: Portfolio Projects
 
 show_contact_card: true
@@ -33,10 +33,6 @@ contact_title: Contacts
 contact_description: Feel free to contact me wherever is comfortable for you
 
 repository: alterxx/alterxx.github.io
-github_pages:
-  - sorting_algos
-  - character_encoder
-  - insolitum.github.io
   
 projects:
   sort_by: stars
