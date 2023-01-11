@@ -15,7 +15,8 @@ html {
 }
 
 ::selection {
-    color: rgb(99, 90, 149);
+    color: rgb(17, 17, 17);
+    background-color: rgb(99, 90, 149);
 }
 
 button {
@@ -33,6 +34,9 @@ button:hover {
 }
 button:active {
     border-color: white;
+}
+button::selection {
+    color: rgb(149, 135, 230);
 }
 
 .header-title {
