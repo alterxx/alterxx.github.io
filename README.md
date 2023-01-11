@@ -1,4 +1,4 @@
-# ALTERXX.GITHUB.IO
+# ALTERXX
 https://alterxx.github.io
 
 
